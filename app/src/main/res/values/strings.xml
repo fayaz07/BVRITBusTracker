@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BVRIT Bus Tracker</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="branch">
+        <item>Select your department</item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECHANICAL</item>
+        <item>IT</item>
+        <item>CHEMICAL</item>
+        <item>CIVIL</item>
+        <item>BME</item>
+        <item>MBA</item>
+        <item>ECE</item>
+    </string-array>
+
+    <string-array name="year">
+        <item>Select year</item>
+        <item>I YEAR</item>
+        <item>II YEAR</item>
+        <item>III YEAR</item>
+        <item>IV YEAR</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Do not prefer to say</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="drivers">
+
+        <item> Route - 1J  </item>
+        <item> Route - 2J  </item>
+
+    </string-array>
+
+
+</resources>
